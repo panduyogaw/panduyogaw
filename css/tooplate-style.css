@@ -343,6 +343,16 @@ b, strong {
   line-height: 75px;
   text-align: center;
 }
+.timeline-sq {
+  background: #474559;
+  border-radius: 0%;
+  
+  color: #ffffff;
+  width: 75px;
+  height: 75px;
+  line-height: 75px;
+  text-align: center;
+}
 .timeline-yr span {
   color: #ffffff;
   font-size: 16px;
